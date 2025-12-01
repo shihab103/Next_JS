@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Calm Study Table",
+    "description": "A peaceful study table with books and warm lighting, perfect for evening reading.",
+    "category": "Lifestyle",
+    "image": "https://i.ibb.co.com/B5XtdcWL/pexels-lilartsy-3563625.jpg",
+    "author": "Lil Artsy",
+    "rating": 4.8,
+    "createdAt": "2024-01-02",
+    "price":"100"
+  },
+  {
+    "id": 2,
+    "title": "Cozy Coffee Cup",
+    "description": "A minimal wooden desk with a warm cup of coffee and greenery.",
+    "category": "Lifestyle",
+    "image": "https://i.ibb.co.com/nsjn4LCS/pexels-huy-phan-316220-3076899.jpg",
+    "author": "Huy Phan",
+    "rating": 4.7,
+    "createdAt": "2024-01-05",
+    "price":"100"
+  },
+  {
+    "id": 3,
+    "title": "Creative Workspace",
+    "description": "A stylish workspace setup with natural light and aesthetic interior.",
+    "category": "Workspace",
+    "image": "https://i.ibb.co.com/mVR5chsx/pexels-shottrotter-2249959.jpg",
+    "author": "Shot Trotter",
+    "rating": 4.9,
+    "createdAt": "2024-01-08",
+    "price":"100"
+  },
+  {
+    "id": 4,
+    "title": "Modern Flat Interior",
+    "description": "A quiet living room with cozy furniture and soft lighting.",
+    "category": "Interior",
+    "image": "https://i.ibb.co.com/k6rgxr37/pexels-minan1398-793012.jpg",
+    "author": "Minan",
+    "rating": 4.6,
+    "createdAt": "2024-01-11",
+    "price":"100"
+  },
+  {
+    "id": 5,
+    "title": "Books & Coffee",
+    "description": "A classic wooden desk with stacked books and a hot coffee mug.",
+    "category": "Lifestyle",
+    "image": "https://i.ibb.co.com/RG28nChv/pexels-huy-phan-316220-3153524.jpg",
+    "author": "Huy Phan",
+    "rating": 4.8,
+    "createdAt": "2024-01-15",
+    "price":"100"
+  },
+  {
+    "id": 6,
+    "title": "Peaceful Reading Corner",
+    "description": "Cozy chair setup near a window with bright sunlight for relaxing reading.",
+    "category": "Reading",
+    "image": "https://i.ibb.co.com/FkYmB188/pexels-julia-kuzenkov-442028-1974508.jpg",
+    "author": "Julia Kuzenkov",
+    "rating": 4.9,
+    "createdAt": "2024-01-17",
+    "price":"100"
+  },
+  {
+    "id": 7,
+    "title": "Healthy Food Mix",
+    "description": "A fresh bowl of fruits and healthy breakfast ingredients arranged beautifully.",
+    "category": "Food",
+    "image": "https://i.ibb.co.com/0R04N6hs/pexels-kseniachernaya-3952024.jpg",
+    "author": "Ksenia Chernaya",
+    "rating": 4.5,
+    "createdAt": "2024-01-19",
+    "price":"100"
+  },
+  {
+    "id": 8,
+    "title": "Stylish Workspace Setup",
+    "description": "Minimalist desk with laptop, coffee and aesthetic decorative items.",
+    "category": "Workspace",
+    "image": "https://i.ibb.co.com/VYT2mmGr/pexels-designecologist-1008693.jpg",
+    "author": "Designecologist",
+    "rating": 4.9,
+    "createdAt": "2024-01-21",
+    "price":"100"
+  },
+  {
+    "id": 9,
+    "title": "Nature Photography",
+    "description": "A scenic moment captured in the forest filled with natural beauty.",
+    "category": "Nature",
+    "image": "https://i.ibb.co.com/qMDhGxSf/pexels-martha-badzinska-31292-3012430.jpg",
+    "author": "Martha Badzinska",
+    "rating": 4.8,
+    "createdAt": "2024-01-23",
+    "price":"100"
+  },
+  {
+    "id": 10,
+    "title": "Urban Drinks",
+    "description": "Refreshing drinks placed aesthetically on a street-side café table.",
+    "category": "Drinks",
+    "image": "https://i.ibb.co.com/DfYB3vsr/pexels-shottrotter-2249960.jpg",
+    "author": "Shot Trotter",
+    "rating": 4.7,
+    "createdAt": "2024-01-24",
+    "price":"100"
+  },
+  {
+    "id": 11,
+    "title": "Woman Relaxing with Book",
+    "description": "A peaceful environment where a woman enjoys her reading time.",
+    "category": "Lifestyle",
+    "image": "https://i.ibb.co.com/9kCtFxMt/pexels-zariflavin-1872713-3473467.jpg",
+    "author": "Zarif Lavin",
+    "rating": 4.9,
+    "createdAt": "2024-01-26",
+    "price":"100"
+  },
+  {
+    "id": 12,
+    "title": "Professional Videography",
+    "description": "Camera and setup ready for creative shooting sessions.",
+    "category": "Technology",
+    "image": "https://i.ibb.co.com/Fq5r1vf5/pexels-cottonbro-4503942.jpg",
+    "author": "Cottonbro",
+    "rating": 4.6,
+    "createdAt": "2024-01-27",
+    "price":"100"
+  },
+  {
+    "id": 13,
+    "title": "Minimal Bedroom Aesthetic",
+    "description": "Soft colors and cozy lighting create a relaxing bedroom environment.",
+    "category": "Interior",
+    "image": "https://i.ibb.co.com/3YdB5D7K/pexels-823sl-3190559.jpg",
+    "author": "823sl",
+    "rating": 4.8,
+    "createdAt": "2024-01-28",
+    "price":"100"
+  },
+  {
+    "id": 14,
+    "title": "Creative Editing Desk",
+    "description": "A workspace full of creativity with tools and warm ambiance.",
+    "category": "Workspace",
+    "image": "https://i.ibb.co.com/S75vzdKd/pexels-cottonbro-4503273.jpg",
+    "author": "Cottonbro",
+    "rating": 4.7,
+    "createdAt": "2024-01-29",
+    "price":"100"
+  },
+  {
+    "id": 15,
+    "title": "Travel Memories",
+    "description": "A beautiful scene captured on a peaceful trip by nature.",
+    "category": "Travel",
+    "image": "https://i.ibb.co.com/tRys3vN/pexels-taryn-elliott-4374576.jpg",
+    "author": "Taryn Elliott",
+    "rating": 4.9,
+    "createdAt": "2024-02-01",
+    "price":"100"
+  },
+  {
+    "id": 16,
+    "title": "Street Food Vibes",
+    "description": "An authentic street food plate filled with colorful ingredients.",
+    "category": "Food",
+    "image": "https://i.ibb.co.com/XxxHzX8m/pexels-fernanda-leticia-536417725-32978302.jpg",
+    "author": "Fernanda Leticia",
+    "rating": 4.6,
+    "createdAt": "2024-02-02",
+    "price":"100"
+  },
+  {
+    "id": 17,
+    "title": "Vintage Car Scene",
+    "description": "A classic car captured in a bold vintage style.",
+    "category": "Vintage",
+    "image": "https://i.ibb.co.com/PsqHMw8G/pexels-pixabay-280471.jpg",
+    "author": "Pixabay",
+    "rating": 4.8,
+    "createdAt": "2024-02-04",
+    "price":"100"
+  },
+  {
+    "id": 18,
+    "title": "Night Life Lights",
+    "description": "Bright city lights captured on a chilled nightlife evening.",
+    "category": "City",
+    "image": "https://i.ibb.co.com/yFJdkH13/pexels-thought-catalog-317580-904616.jpg",
+    "author": "Thought Catalog",
+    "rating": 4.9,
+    "createdAt": "2024-02-05",
+    "price":"100"
+  },
+  {
+    "id": 19,
+    "title": "Modern Portrait ",
+    "description": "A stunning portrait capturing natural beauty and creative styling.",
+    "category": "Portrait",
+    "image": "https://i.ibb.co.com/VWnFDyrY/pexels-bianca-gasparoto-834990-1752806.jpg",
+    "author": "Bianca Gasparoto",
+    "rating": 4.7,
+    "createdAt": "2024-02-07",
+    "price":"100"
+  },
+  {
+    "id": 20,
+    "title": "Delicious Breakfast Bowl",
+    "description": "A colorful and healthy fruit breakfast bowl arranged beautifully.",
+    "category": "Food",
+    "image": "https://i.ibb.co.com/21w3f7TR/pexels-myfoodie-2638019-1.jpg",
+    "author": "My Foodie",
+    "rating": 4.9,
+    "createdAt": "2024-02-08",
+    "price":"100"
+  }
+]
